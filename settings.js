@@ -22,29 +22,29 @@ global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia  //change indonesia to english if you don't understand the language used by the bot
+global.language = english  //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.botname = "𓆩 𝐍𝐎𝐁𝐈𝐓𝐀 𓆪-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ 𓆩 𝐍𝐎𝐁𝐈𝐓𝐀 𓆪 ×፝֟͜×" //nama kalian
+global.myweb ="https://wa.me/923032112917" //bebas asal jan hapus
+global.youtube = "https://wa.me/923032112917" //bebas asal jan hapus
+global.myweb2 = "https://wa.me/923032112917" //bebas
+global.email = "nobita@gmail.com" //bebas
+global.region = "Pakistan" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326","622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['923032112917'] //premium user
+global.owner = ["923032112917","923032112917"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "923032112917" // nomor wa kalian
+global.ownernomerr = "+923032112917" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = 'Made by' //sticker wm ubah
+global.author = '𓆩 𝐍𝐎𝐁𝐈𝐓𝐀 𓆪' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
